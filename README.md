@@ -1,6 +1,6 @@
 # PROJETO EM CIÊNCIA DE DADOS
-Universidade Nove de Julho
-Ciência da Computação
+* Universidade Nove de Julho
+* Ciência da Computação
 
 
 # Integrantes
