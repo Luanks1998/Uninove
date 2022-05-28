@@ -17,6 +17,10 @@ Storopoli & Souza (2020). Ciência de Dados com Python: pandas, matplotlib, Scik
 
 **Fonte:**
 
+```plaintext
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+```
 
+```plaintext
 https://www.analyticsvidhya.com/blog/2021/11/implementation-of-gaussian-naive-bayes-in-python-sklearn/
+```
